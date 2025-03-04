@@ -1,1 +1,19 @@
-
+question2:
+The easiet kind analysis with each of visualisations are:
+1. Scatter Plot between Math Score and Reading Score:
+•	Analysis: This visualization makes it easier to analyze the relationship between two continuous variables (math and reading scores). By observing the scatter plot, it helps in identifying trends (positive or negative correlation), clusters, and outliers, simplifying the process of understanding how performance in one subject correlates with performance in another.
+2. Correlation Matrix:
+•	Analysis: The correlation matrix simplifies the analysis of relationships between multiple continuous variables. It quantifies the strength and direction of the relationship between each pair of variables. This is especially helpful for identifying highly correlated features that may affect each other or show redundancy, guiding further feature selection for predictive models or statistical analysis.
+3. Histogram of Math Scores:
+•	Analysis: The histogram helps in understanding the distribution of math scores across the dataset. It makes it easier to identify whether the data is skewed (left or right), normally distributed, or has any outliers. This is useful for understanding the central tendency and spread of scores, which is important for hypothesis testing and choosing appropriate statistical methods (e.g., parametric vs non-parametric tests).
+4. Boxplot for Reading Score by Parental Level of Education:
+•	Analysis: This boxplot makes it easier to analyze the impact of a categorical variable (parental education level) on a continuous variable (reading scores). It helps in identifying differences in the central tendency (median) and variability (interquartile range) of reading scores across different parental education levels. The presence of outliers can also be spotted, facilitating a deeper understanding of how parental education might influence student performance.
+5. Scatter Plot for Writing Score vs Math Score Colored by Gender:
+•	Analysis: This visualization simplifies the analysis of gender differences in performance on two continuous variables (writing and math scores). By color-coding based on gender, it becomes easier to compare the performance of male vs. female students across the two subjects. It helps in identifying gender-based patterns or differences that may exist in how students perform in writing and math, which can guide further investigation into gender-related educational disparities.
+In the conclusion 
+•	Scatter Plot: Helps identify relationships between two continuous variables.
+•	Correlation Matrix: Quantifies relationships between multiple variables.
+•	Histogram: Helps understand the distribution of a variable.
+•	Boxplot: Allows comparison of a continuous variable across categories.
+•	Scatter Plot with Gender: Facilitates comparison of continuous variables based on gender.
+Each of these visualizations allows for a more detailed data analysis
